@@ -28,3 +28,7 @@ ul {
     width: 60px;
     height: 60px;
 }
+
+#tab {
+    padding-left: 2em;
+}
