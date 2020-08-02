@@ -34,7 +34,7 @@ ul {
     width: 60px;
     height: 60px;
     transform: scale(1);
-    transition: transform .5s;
+    transition: transform .4s;
 }
 
 .social:hover {
